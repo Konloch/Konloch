@@ -25,7 +25,7 @@
 
 <tr>
 <td><a href="https://konloch.com/FastStringUtils/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/FastStringUtils?style=social"></a></td>
-<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Zero dependency dependency collection of very fast String utility functions.</td>
+<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Zero dependency collection of very fast String utility functions.</td>
 </tr>
 
 <tr>
