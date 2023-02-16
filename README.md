@@ -24,6 +24,11 @@
 <tbody>
 
 <tr>
+<td><a href="https://konloch.com/FastStringUtils/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/FastStringUtils?style=social"></a></td>
+<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Zero dependency dependency collection of very fast String utility functions.</td>
+</tr>
+
+<tr>
 <td><a href="https://konloch.com/DiskLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DiskLib?style=social"></a></td>
 <td><a href="https://konloch.com/DiskLib/">DiskLib</a> - DiskLib is an easy to use zero dependency Disk Writer & Disk Reader with built in GZIP support for Java.</td>
 </tr>
