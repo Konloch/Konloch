@@ -38,6 +38,11 @@
 <td><a href="https://konloch.com/HTTPRequest/">HTTPRequest</a> - Zero dependency Java wrapper to read from a URL. Support for Cookies, proxies, UserAgent, post data and more.</td>
 </tr>
 
+<tr>
+<td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
+<td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - DynVarMap is zero dependency easy and straight forward way to manage attribute-like runtime variables for Java.</td>
+</tr>
+
 </tbody>
 </table>
 
