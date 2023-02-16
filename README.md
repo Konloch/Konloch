@@ -12,7 +12,7 @@
 
 <tr>
 <td><a href="https://konloch.com/JVM-Sandbox/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JVM-Sandbox?style=social"></a></td>
-<td><a href="https://konloch.com/JVM-SandBox/">JVM-SandBox</a> - Utilize Java Agents and ASM to modify then override Java SE classes. (In this case blocking java.lang.Runtime.exec)</td>
+<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Utilize Java Agents and ASM to modify then override Java SE classes. (In this case blocking java.lang.Runtime.exec)</td>
 </tr>
 
 </tbody>
