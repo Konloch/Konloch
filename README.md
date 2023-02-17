@@ -1,7 +1,9 @@
 ### Emulator Apprentice, Game Developer, Java Hacker, FOSS Enthusiast & Reverse Engineer.
+Below is a collection of my Open Source Works. These are projects I've developed throughout the years. I'm currently working on releasing more from the vault this year.
 
 <p>
-<h4>Tools I've Developed & Open Sourced</h4>
+<!--- TOOLS -->
+<h4>Tools</h4>
 <table>
 <tbody>
 
@@ -10,41 +12,48 @@
 <td><a href="https://konloch.com/Bytecode-Viewer/">BytecodeViewer</a> - Java Reverse Engineering Suite for static analysis</td>
 </tr>
 
+</tbody>
+</table>
+
+<!--- EXPERIMENTS -->
+<h4>Experiments</h4>
+<table>
+<tbody>
+
 <tr>
 <td><a href="https://konloch.com/JVM-Sandbox/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JVM-Sandbox?style=social"></a></td>
-<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Utilize Java Agents and ASM to modify then override Java SE classes. (In this case blocking java.lang.Runtime.exec)</td>
+<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Override Java Classes during Runtime</td>
 </tr>
 
 </tbody>
 </table>
 
-<h4>Java Libraries I've Written & Open Sourced</h4>
-
+<!--- LIBRARIES -->
+<h4>Zero Dependency Java Libraries</h4>
 <table>
 <tbody>
 
 <tr>
 <td><a href="https://konloch.com/FastStringUtils/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/FastStringUtils?style=social"></a></td>
-<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Zero dependency collection of very fast String utility functions.</td>
+<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Collection of very fast String utility functions.</td>
 </tr>
 
 <tr>
 <td><a href="https://konloch.com/DiskLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DiskLib?style=social"></a></td>
-<td><a href="https://konloch.com/DiskLib/">DiskLib</a> - DiskLib is an easy to use zero dependency Disk Writer & Disk Reader with built in GZIP support for Java.</td>
+<td><a href="https://konloch.com/DiskLib/">DiskLib</a> - Easy to use Disk Writer & Disk Reader with built in GZIP support for Java.</td>
 </tr>
 
 <tr>
 <td><a href="https://konloch.com/HTTPRequest/stargazers"><img height="30" src="https://img.shields.io/github/stars/konloch/httprequest?style=social"></a></td>
-<td><a href="https://konloch.com/HTTPRequest/">HTTPRequest</a> - Zero dependency Java wrapper to read from a URL. Support for Cookies, proxies, UserAgent, post data and more.</td>
+<td><a href="https://konloch.com/HTTPRequest/">HTTPRequest</a> - Java wrapper to read from a URL. Support for Cookies, proxies, UserAgent, post data and more.</td>
 </tr>
 
 <tr>
 <td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
-<td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - DynVarMap is zero dependency easy and straight forward way to manage attribute-like runtime variables for Java.</td>
+<td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - Easy and straight forward way to manage attribute-like runtime variables for Java.</td>
 </tr>
 
 </tbody>
 </table>
-
 
 </p>
