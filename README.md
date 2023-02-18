@@ -39,6 +39,11 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </tr>
 
 <tr>
+<td><a href="https://konloch.com/StringVars/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/StringVars?style=social"></a></td>
+<td><a href="https://konloch.com/StringVars/">StringVars</a> - Create recursive String variables such as %var%.</td>
+</tr>
+  
+<tr>
 <td><a href="https://konloch.com/DiskLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DiskLib?style=social"></a></td>
 <td><a href="https://konloch.com/DiskLib/">DiskLib</a> - Easy to use Disk Writer & Disk Reader with built in GZIP support for Java.</td>
 </tr>
@@ -47,7 +52,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <td><a href="https://konloch.com/HTTPRequest/stargazers"><img height="30" src="https://img.shields.io/github/stars/konloch/httprequest?style=social"></a></td>
 <td><a href="https://konloch.com/HTTPRequest/">HTTPRequest</a> - Java wrapper to read from a URL. Support for Cookies, proxies, UserAgent, post data and more.</td>
 </tr>
-
+  
 <tr>
 <td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
 <td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - Easy and straight forward way to manage attribute-like runtime variables for Java.</td>
