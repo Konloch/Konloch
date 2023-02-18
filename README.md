@@ -40,7 +40,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 <tr>
 <td><a href="https://konloch.com/StringVars/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/StringVars?style=social"></a></td>
-<td><a href="https://konloch.com/StringVars/">StringVars</a> - Create recursive String variables such as %var%.</td>
+<td><a href="https://konloch.com/StringVars/">StringVars</a> - Adds support for recursive String variables such as %var%.</td>
 </tr>
   
 <tr>
