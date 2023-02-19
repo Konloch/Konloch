@@ -54,6 +54,11 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </tr>
   
 <tr>
+<td><a href="https://konloch.com/DSLBuilder/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DSLBuilder?style=social"></a></td>
+<td><a href="https://konloch.com/DSLBuilder/">DSLBuilder</a> - Domain specific language builder with it's own runtime.</td>
+</tr>
+  
+<tr>
 <td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
 <td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - Easy and straight forward way to manage attribute-like runtime variables for Java.</td>
 </tr>
