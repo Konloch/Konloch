@@ -3,7 +3,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 <p>
 <!--- TOOLS -->
-<h4>Tools (GPL3)</h4>
+<h4>Tools (GPL-3)</h4>
 <table>
 <tbody>
 
@@ -16,7 +16,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </table>
 
 <!--- EXPERIMENTS -->
-<h4>Experiments (GPL3)</h4>
+<h4>Experiments (GPL-3)</h4>
 <table>
 <tbody>
 
