@@ -57,7 +57,12 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <td><a href="https://konloch.com/DSLBuilder/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DSLBuilder?style=social"></a></td>
 <td><a href="https://konloch.com/DSLBuilder/">DSLBuilder</a> - Domain specific language builder with it's own runtime.</td>
 </tr>
-  
+
+<tr>
+<td><a href="https://konloch.com/IterateINI/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/IterateINI?style=social"></a></td>
+<td><a href="https://konloch.com/IterateINI/">IterateINI</a> - Adds support for iterating over the key-value pairs of any INI file.</td>
+</tr>
+
 <tr>
 <td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
 <td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - Easy and straight forward way to manage attribute-like runtime variables for Java.</td>
