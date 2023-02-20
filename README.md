@@ -3,7 +3,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 <p>
 <!--- TOOLS -->
-<h4>Tools</h4>
+<h4>Tools (GPL3)</h4>
 <table>
 <tbody>
 
@@ -16,7 +16,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </table>
 
 <!--- EXPERIMENTS -->
-<h4>Experiments</h4>
+<h4>Experiments (GPL3)</h4>
 <table>
 <tbody>
 
@@ -29,7 +29,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </table>
 
 <!--- LIBRARIES -->
-<h4>Zero Dependency Java Libraries</h4>
+<h4>Zero Dependency Java Libraries (Public Domain)</h4>
 <table>
 <tbody>
 
@@ -59,16 +59,37 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </tr>
 
 <tr>
-<td><a href="https://konloch.com/IterateINI/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/IterateINI?style=social"></a></td>
-<td><a href="https://konloch.com/IterateINI/">IterateINI</a> - Adds support for iterating over the key-value pairs of any INI file.</td>
-</tr>
-
-<tr>
 <td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
 <td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - Easy and straight forward way to manage attribute-like runtime variables for Java.</td>
 </tr>
 
 </tbody>
 </table>
+
+
+<!--- TINY LIBRARIES -->
+<h4>Tiny Zero Dependency Java Libraries (Public Domain)</h4>
+<details>
+<table>
+<tbody>
+
+<tr>
+<td><a href="https://konloch.com/IterateINI/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/IterateINI?style=social"></a></td>
+<td><a href="https://konloch.com/IterateINI/">IterateINI</a> - Adds support for iterating over the key-value pairs of any INI file.</td>
+</tr>
+  
+<tr>
+<td><a href="https://konloch.com/ColorUtils/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/ColorUtils?style=social"></a></td>
+<td><a href="https://konloch.com/ColorUtils/">ColorUtils</a> - A small collection of utility functions to deal with coloring on Java.</td>
+</tr>
+
+<tr>
+<td><a href="https://konloch.com/Constants/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Constants?style=social"></a></td>
+<td><a href="https://konloch.com/Constants/">Constants</a> - Very small zero dependency Java library packed with constants.</td>
+</tr>
+
+</tbody>
+</table>
+</details>
 
 </p>
