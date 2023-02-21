@@ -29,7 +29,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </table>
 
 <!--- LIBRARIES -->
-<h4>Zero Dependency Java Libraries (Public Domain)</h4>
+<h4>Zero Dependency Java Libraries (MIT License)</h4>
 <table>
 <tbody>
 
@@ -73,7 +73,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 
 <!--- TINY LIBRARIES -->
-<h4>Tiny Zero Dependency Java Libraries (Public Domain)</h4>
+<h4>Tiny Zero Dependency Java Libraries (MIT License)</h4>
 <details>
 <table>
 <tbody>
