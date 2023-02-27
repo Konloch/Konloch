@@ -16,14 +16,9 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </table>
 
 <!--- EXPERIMENTS -->
-<h4>Experiments (GPL-3/MIT)</h4>
+<h4>Experiments (GPL-3)</h4>
 <table>
 <tbody>
-
-<tr>
-<td><a href="https://konloch.com/JVM-Sandbox/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JVM-Sandbox?style=social"></a></td>
-<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Override Java Classes during Runtime.</td>
-</tr>
 
 <tr>
 <td><a href="https://konloch.com/ObfSRC/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/ObfSRC?style=social"></a></td>
@@ -32,6 +27,22 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 </tbody>
 </table>
+
+
+<!--- TINY EXPERIMENTS -->
+<h4>Tiny Experiments (MIT)</h4>
+<details>
+<table>
+<tbody>
+
+<tr>
+<td><a href="https://konloch.com/JVM-Sandbox/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JVM-Sandbox?style=social"></a></td>
+<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Override Java Classes during Runtime.</td>
+</tr>
+
+</tbody>
+</table>
+</details>
 
 <!--- LIBRARIES -->
 <h4>Zero Dependency Java Libraries (MIT License)</h4>
