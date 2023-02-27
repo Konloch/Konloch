@@ -9,20 +9,25 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 <tr>
 <td><a href="https://konloch.com/Bytecode-Viewer/stargazers"><img height="30" src="https://img.shields.io/github/stars/konloch/bytecode-viewer?style=social"></a></td>
-<td><a href="https://konloch.com/Bytecode-Viewer/">BytecodeViewer</a> - Java Reverse Engineering Suite for static analysis</td>
+<td><a href="https://konloch.com/Bytecode-Viewer/">BytecodeViewer</a> - Java Reverse Engineering Suite for static analysis.</td>
 </tr>
 
 </tbody>
 </table>
 
 <!--- EXPERIMENTS -->
-<h4>Experiments (GPL-3)</h4>
+<h4>Experiments (GPL-3/MIT)</h4>
 <table>
 <tbody>
 
 <tr>
 <td><a href="https://konloch.com/JVM-Sandbox/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JVM-Sandbox?style=social"></a></td>
-<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Override Java Classes during Runtime</td>
+<td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Override Java Classes during Runtime.</td>
+</tr>
+
+<tr>
+<td><a href="https://konloch.com/ObfSRC/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/ObfSRC?style=social"></a></td>
+<td><a href="https://konloch.com/ObfSRC/">ObfSRC</a> - Obfuscate Java source code through unicode escaping.</td>
 </tr>
 
 </tbody>
