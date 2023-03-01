@@ -48,16 +48,6 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <h4>Zero Dependency Java Libraries (MIT License)</h4>
 <table>
 <tbody>
-
-<tr>
-<td><a href="https://konloch.com/FastStringUtils/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/FastStringUtils?style=social"></a></td>
-<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Collection of very fast String utility functions.</td>
-</tr>
-
-<tr>
-<td><a href="https://konloch.com/StringVars/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/StringVars?style=social"></a></td>
-<td><a href="https://konloch.com/StringVars/">StringVars</a> - Adds support for recursive String variables such as %var%.</td>
-</tr>
   
 <tr>
 <td><a href="https://konloch.com/DiskLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DiskLib?style=social"></a></td>
@@ -95,8 +85,18 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <tbody>
 
 <tr>
+<td><a href="https://konloch.com/StringVars/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/StringVars?style=social"></a></td>
+<td><a href="https://konloch.com/StringVars/">StringVars</a> - Adds support for recursive String variables such as %var%.</td>
+</tr>
+  
+<tr>
 <td><a href="https://konloch.com/IterateINI/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/IterateINI?style=social"></a></td>
 <td><a href="https://konloch.com/IterateINI/">IterateINI</a> - Adds support for iterating over the key-value pairs of any INI file.</td>
+</tr>
+  
+<tr>
+<td><a href="https://konloch.com/FastStringUtils/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/FastStringUtils?style=social"></a></td>
+<td><a href="https://konloch.com/FastStringUtils/">FastStringUtils</a> - Collection of very fast String utility functions.</td>
 </tr>
   
 <tr>
