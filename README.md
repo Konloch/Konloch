@@ -53,6 +53,11 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <td><a href="https://konloch.com/DiskLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DiskLib?style=social"></a></td>
 <td><a href="https://konloch.com/DiskLib/">DiskLib</a> - Easy to use Disk Writer & Disk Reader with built in GZIP support for Java.</td>
 </tr>
+  
+<tr>
+<td><a href="https://konloch.com/Socket-Server/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Socket-Server?style=social"></a></td>
+<td><a href="https://konloch.com/Socket-Server/">Socket-Server</a> - Easy to use low-level socket server for Java. Echo Server included as an example.</td>
+</tr>
 
 <tr>
 <td><a href="https://konloch.com/HTTPRequest/stargazers"><img height="30" src="https://img.shields.io/github/stars/konloch/httprequest?style=social"></a></td>
