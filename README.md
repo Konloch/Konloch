@@ -51,12 +51,12 @@ Below is a collection of my Open Source Works. These are projects I've developed
   
 <tr>
 <td><a href="https://konloch.com/DiskLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DiskLib?style=social"></a></td>
-<td><a href="https://konloch.com/DiskLib/">DiskLib</a> - Easy to use Disk Writer & Disk Reader with built in GZIP support for Java.</td>
+<td><a href="https://konloch.com/DiskLib/">DiskLib</a> - Easy to use Disk Writer & Disk Reader with built in GZIP support.</td>
 </tr>
   
 <tr>
 <td><a href="https://konloch.com/Socket-Server/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Socket-Server?style=social"></a></td>
-<td><a href="https://konloch.com/Socket-Server/">Socket-Server</a> - Easy to use low-level non-blocking socket server API for Java.</td>
+<td><a href="https://konloch.com/Socket-Server/">Socket-Server</a> - Easy to use low-level non-blocking socket server API.</td>
 </tr>
 
 <tr>
