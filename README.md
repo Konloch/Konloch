@@ -3,13 +3,18 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 <p>
 <!--- TOOLS -->
-<h4>Tools (GPL-3)</h4>
+<h4>Software (GPL-3)</h4>
 <table>
 <tbody>
 
 <tr>
 <td><a href="https://konloch.com/Bytecode-Viewer/stargazers"><img height="30" src="https://img.shields.io/github/stars/konloch/bytecode-viewer?style=social"></a></td>
 <td><a href="https://konloch.com/Bytecode-Viewer/">BytecodeViewer</a> - Java Reverse Engineering Suite for static analysis.</td>
+</tr>
+
+<tr>
+<td><a href="https://konloch.com/jIRCd/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/jIRCd?style=social"></a></td>
+<td><a href="https://konloch.com/jIRCd/">jIRCd</a> - High performant Java IRC daemon.</td>
 </tr>
 
 </tbody>
