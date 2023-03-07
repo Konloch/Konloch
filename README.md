@@ -3,7 +3,7 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 <p>
 <!--- TOOLS -->
-<h4>Software (GPL-3)</h4>
+<h4>Software (GPL-3 / MIT)</h4>
 <table>
 <tbody>
 
