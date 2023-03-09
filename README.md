@@ -13,8 +13,8 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </tr>
 
 <tr>
-<td><a href="https://konloch.com/jIRCd/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/jIRCd?style=social"></a></td>
-<td><a href="https://konloch.com/jIRCd/">jIRCd</a> - High performant Java IRC daemon.</td>
+<td><a href="https://konloch.com/OpenIRCd/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/OpenIRCd?style=social"></a></td>
+<td><a href="https://konloch.com/OpenIRCd/">OpenIRCd</a> - High performant Java IRC daemon.</td>
 </tr>
 
 </tbody>
