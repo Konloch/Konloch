@@ -68,7 +68,12 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <td><a href="https://konloch.com/HTTPRequest/stargazers"><img height="30" src="https://img.shields.io/github/stars/konloch/httprequest?style=social"></a></td>
 <td><a href="https://konloch.com/HTTPRequest/">HTTPRequest</a> - Java wrapper to read from a URL. Support for Cookies, proxies, UserAgent, post data and more.</td>
 </tr>
-
+  
+<tr>
+<td><a href="https://konloch.com/HTTPdLib/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/HTTPdLib?style=social"></a></td>
+<td><a href="https://konloch.com/HTTPdLib/">HTTPdLib</a> - Minimalistic embeddable HTTP server.</td>
+</tr>
+  
 <tr>
 <td><a href="https://konloch.com/TaskManager/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/TaskManager?style=social"></a></td>
 <td><a href="https://konloch.com/TaskManager/">TaskManager</a> - An easy to use task manager / task queue.</td>
