@@ -1,9 +1,10 @@
 ### Emulator Apprentice, Game Developer, Java Hacker, FOSS Enthusiast & Reverse Engineer.
-Below is a collection of my Open Source Works. These are projects I've developed throughout the years. I'm currently working on releasing more from the vault this year.
+This is a collection of my Open Source Works. These are projects I've developed throughout the years, to date. I'm currently working on releasing more from the vault.
 
 <p>
 <!--- TOOLS -->
-<h4>Software (GPL-3 / MIT)</h4>
+<h4>Standalone Software</h4>
+<details>
 <table>
 <tbody>
 
@@ -19,9 +20,11 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 </tbody>
 </table>
+</details>
 
 <!--- EXPERIMENTS -->
-<h4>Experiments (GPL-3)</h4>
+<h4>Random Projects / Experiments / CLI</h4>
+<details>
 <table>
 <tbody>
 
@@ -30,19 +33,19 @@ Below is a collection of my Open Source Works. These are projects I've developed
 <td><a href="https://konloch.com/JVM-Sandbox/">JVM-Sandbox</a> - Override Java Classes during Runtime.</td>
 </tr>
 
-</tbody>
-</table>
-
-
-<!--- TINY EXPERIMENTS -->
-<h4>Tiny Experiments (MIT)</h4>
-<details>
-<table>
-<tbody>
-
 <tr>
 <td><a href="https://konloch.com/ObfSRC/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/ObfSRC?style=social"></a></td>
 <td><a href="https://konloch.com/ObfSRC/">ObfSRC</a> - Obfuscate Java source code through unicode escaping.</td>
+</tr>
+
+<tr>
+<td><a href="https://konloch.com/Malbolge.c4J/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Malbolge.c4J?style=social"></a></td>
+<td><a href="https://konloch.com/Malbolge.c4J/">Malbolge.c4J</a> - Malbolge '98 interpreter ported over to Java.</td>
+</tr>
+
+<tr>
+<td><a href="https://konloch.com/Gematria/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Gematria?style=social"></a></td>
+<td><a href="https://konloch.com/Gematria/">Gematria</a> - Java library / CLI tool for calculating the Gematria value of strings.</td>
 </tr>
 
 </tbody>
@@ -50,7 +53,8 @@ Below is a collection of my Open Source Works. These are projects I've developed
 </details>
 
 <!--- LIBRARIES -->
-<h4>Zero Dependency Java Libraries (MIT License)</h4>
+<h4>Java Libraries (Zero Dependency)</h4>
+<details>
 <table>
 <tbody>
   
@@ -91,10 +95,11 @@ Below is a collection of my Open Source Works. These are projects I've developed
 
 </tbody>
 </table>
+</details>
 
 
 <!--- TINY LIBRARIES -->
-<h4>Tiny Zero Dependency Java Libraries (MIT License)</h4>
+<h4>Tiny Java Libraries (Zero Dependency)</h4>
 <details>
 <table>
 <tbody>
