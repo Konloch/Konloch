@@ -48,6 +48,11 @@ This is a collection of my Open Source Works. These are projects I've developed 
 <td><a href="https://konloch.com/Gematria/">Gematria</a> - Java library / CLI tool for calculating the Gematria value of strings.</td>
 </tr>
 
+<tr>
+<td><a href="https://konloch.com/InjectedCalculator/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/InjectedCalculator?style=social"></a></td>
+<td><a href="https://konloch.com/InjectedCalculator/">InjectedCalculator</a> - "Missing code, so it injects what its missing".</td>
+</tr>
+
 </tbody>
 </table>
 </details>
