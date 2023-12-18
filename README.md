@@ -69,8 +69,8 @@ This is a collection of my Open Source Works. These are projects I've developed 
 </tr>
   
 <tr>
-<td><a href="https://konloch.com/Socket-Server/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Socket-Server?style=social"></a></td>
-<td><a href="https://konloch.com/Socket-Server/">Socket-Server</a> - Easy to use low-level non-blocking socket server API.</td>
+<td><a href="https://konloch.com/Vortex-IO/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/Vortex-IO?style=social"></a></td>
+<td><a href="https://konloch.com/Vortex-IO/">Vortex-IO</a> - Easy to use low-level non-blocking socket server API.</td>
 </tr>
 
 <tr>
@@ -96,6 +96,11 @@ This is a collection of my Open Source Works. These are projects I've developed 
 <tr>
 <td><a href="https://konloch.com/DynVarMap/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/DynVarMap?style=social"></a></td>
 <td><a href="https://konloch.com/DynVarMap/">DynVarMap</a> - Easy and straight forward way to manage attribute-like runtime variables for Java.</td>
+</tr>
+
+<tr>
+<td><a href="https://konloch.com/JavaIRCBot/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JavaIRCBot?style=social"></a></td>
+<td><a href="https://konloch.com/JavaIRCBot/">JavaIRCBot</a> - Tiny library for implementing your own NIO IRC Client / Bot / Crawler / Logger.</td>
 </tr>
 
 </tbody>
