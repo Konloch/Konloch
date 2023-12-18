@@ -99,8 +99,8 @@ This is a collection of my Open Source Works. These are projects I've developed 
 </tr>
 
 <tr>
-<td><a href="https://konloch.com/JavaIRCBot/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/JavaIRCBot?style=social"></a></td>
-<td><a href="https://konloch.com/JavaIRCBot/">JavaIRCBot</a> - Tiny library for implementing your own NIO IRC Client / Bot / Crawler / Logger.</td>
+<td><a href="https://konloch.com/HeadlessIRC/stargazers"><img height="30" src="https://img.shields.io/github/stars/Konloch/HeadlessIRC?style=social"></a></td>
+<td><a href="https://konloch.com/HeadlessIRC/">HeadlessIRC</a> - Tiny library for implementing your own NIO IRC Client / Bot / Crawler / Logger.</td>
 </tr>
 
 </tbody>
